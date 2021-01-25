@@ -1,4 +1,4 @@
-## Crypto Trade Bot
+## CryptoCow Trader Bot
 
 ```
 /-----------------------\     
